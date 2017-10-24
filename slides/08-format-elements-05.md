@@ -1,5 +1,5 @@
 ### ````<strong>````
-Similar a la cursiva, pero añade una fuerte importancia semántica.
+Similar a la negrita, pero añade una fuerte importancia semántica.
 
 ````HTML
 <strong>Lorem impsum</strong>

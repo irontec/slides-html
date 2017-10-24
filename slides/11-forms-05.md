@@ -1,8 +1,8 @@
 ### `<select>`
 
-Presenta un desplegable con un abanico de opciones.  
-El atributo _selected_ indica la opción seleccionada por defecto.  
-El valor que se enviará será el especificado en el atributo _value_.
+- Presenta un desplegable con un abanico de opciones.  
+- El atributo _selected_ indica la opción seleccionada por defecto.  
+- El valor que se enviará será el especificado en el atributo _value_.
 
 ````HTML
 <label for="language">Select your language:</label>

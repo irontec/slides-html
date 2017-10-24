@@ -1,6 +1,6 @@
 ### ````<br/>````
-Es un salto de línea.  
-Esta étiqueta es especial, ya que no lleva cierre. 
+- Es un salto de línea.  
+- Esta etiqueta es especial, ya que no lleva cierre. 
 
 ````HTML
 <div>

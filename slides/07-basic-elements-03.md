@@ -1,6 +1,6 @@
 ### ````<p>````
-Representa un párrafo.
-Esta etiqueta introduce un salto de línea al final. 
+- Representa un párrafo.
+- Esta etiqueta introduce un salto de línea al final. 
 
 ````HTML
 <p>

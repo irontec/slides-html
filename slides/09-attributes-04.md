@@ -1,5 +1,6 @@
 ### ````<a>````  
-Representa un link a una página. La url del link se informa en el **atributo** href.
+- Representa un link a una página. 
+- La url del link se informa en el **atributo** href.
 
 
 ````HTML

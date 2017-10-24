@@ -1,5 +1,6 @@
-### Cuerpo
-Es el contenido de nuestra Web.
+### Cabecera
+#### Incluir archivos
+Para incluir estilos se utiliza la etiqueta _link_.
 
 ````HTML
 <!DOCTYPE html>
@@ -8,9 +9,7 @@ Es el contenido de nuestra Web.
         <title>Hello World</title>
         <meta charset="utf-8" />
         <meta name="description" content="This is my first page">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
-    <body>
-        Hello World!
-    </body>
 </html>
 ````

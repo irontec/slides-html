@@ -1,6 +1,7 @@
 ### ````<h1>````
-Las etiquetas _h_ representan títulos. Estos van del 1 al 6, en función del nivel de importancia.  
-Solo debería haber una etiqueta h1 en toda la Web.
+- Las etiquetas _`<h>`_ representan títulos. 
+- Estos van del 1 al 6, en función del nivel de importancia.  
+- Solo debería haber una etiqueta h1 en toda la Web.
 
 
 ````HTML

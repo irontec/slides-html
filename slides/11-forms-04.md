@@ -1,8 +1,8 @@
 ### `<label>`
 
-Representa el título de un _input_.  
-Al clickar sobre él, pone el foco en el input correspondiente.  
-El atributo _for_ del label se debe corresponder con el _id_ del _input_ para relacionarlos.
+- Representa el título de un _input_.  
+- Al clickar sobre él, pone el foco en el input correspondiente.  
+- El atributo _for_ del label se debe corresponder con el _id_ del _input_ para relacionarlos.
 
 ````HTML
 <form action="/action_page.php" method="post">

@@ -1,7 +1,7 @@
 ### `<button>`
 
-Representa un botón.  
-Puede ser de tipo _submit_(enviar), _reset_(reinicia todos los campos) o _button_ (un botón clickable).
+- Representa un botón.  
+- Puede ser de tipo _submit_(enviar), _reset_(reinicia todos los campos) o _button_ (un botón clickable).
 
 ````HTML
 <form action="/action_page.php" method="get">

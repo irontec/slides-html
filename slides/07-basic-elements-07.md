@@ -1,5 +1,5 @@
 ### ````<ol>````
-Una lista <b>ordenada</b> 
+Una lista **ordenada** 
 
 ````HTML
 <ol>
