@@ -4,4 +4,4 @@ Crea una receta en la cual incluyas una breve descripción de la misma, los ingr
 <br/>
 
 ####Tip
-Recuerda el <a href="https://es.lipsum.com/feed/html">lorem ipsum</a>
+_Recuerda el <a href="https://es.lipsum.com/feed/html">lorem ipsum</a>._
