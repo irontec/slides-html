@@ -3,6 +3,7 @@
 
 - ¿Qué es HTML?
 - Breve historia
+- Consejos
 - Etiquetas y anidaciones
 - Estructura básica
 - Elementos básicos
