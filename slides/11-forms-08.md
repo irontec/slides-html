@@ -1,4 +1,4 @@
-#### ¡Manos a la obra!
+### ¡Manos a la obra!
 
 Crea un formulario de registro de un usuario.  
 Debes solicitar datos básicos del usuario:  

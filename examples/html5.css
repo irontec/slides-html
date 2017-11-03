@@ -1,0 +1,72 @@
+#title {
+    float: right;
+}
+
+body {
+background-color: lightgray;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav li {
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+nav li:last-child {
+    border-right: none;
+}
+
+nav li a, li b {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: rgba(255,8,8,.5);
+}
+main {
+    padding: 50px;
+}
+
+article {
+    float: left;
+    margin: 0 2.5% 2.5%;
+    width: 80%;
+    background-color: white;
+}
+
+article section, body section {
+    margin: 1.5%;
+}
+
+
+aside {
+    float: right;
+    margin: 0 1.5%;
+    width: 10%;
+}
+
+footer {
+    clear: both;
+    background-color: #111;
+    text-align: center;
+}
+
+.footer-content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
