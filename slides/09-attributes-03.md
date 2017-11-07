@@ -5,7 +5,7 @@
   
 - Por ejemplo, si queremos dar estilos distintos a los elementos pares e impares de una lista:
 
-````HTML
+````xml
 <ul>
     <li class="odd">Elemento impar</li>
     <li class="even">Elemento par</li>

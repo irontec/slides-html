@@ -1,7 +1,9 @@
 ### Cabecera
 #### `<title>`
 - Define el título de la página. 
-- Se visualiza en la barra del navegador.
+- Se visualiza en la barra del navegador.  
+  
+  
 ````HTML
 <!DOCTYPE html>
 <html>

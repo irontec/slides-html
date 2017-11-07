@@ -1,3 +1,8 @@
+pre code {
+    font-size: 30px!important;
+    line-height: 36px!important;
+}
+
 .reveal pre code {
   max-height: 420px;
 }

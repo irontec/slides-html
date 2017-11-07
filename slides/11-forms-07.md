@@ -5,8 +5,10 @@
 
 ````HTML
 <form action="/action_page.php" method="get">
-  First name: <input type="text" name="fname"><br>
-  Last name: <input type="text" name="lname"><br>
+  First name: <input type="text" name="fname">
+  <br/>
+  Last name: <input type="text" name="lname">
+  <br/>
   <button type="submit">Submit</button>
   <button type="reset">Reset</button>
 </form>

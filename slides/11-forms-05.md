@@ -5,8 +5,8 @@
 - El valor que se enviará será el especificado en el atributo _value_.
 
 ````HTML
-<label for="language">Select your language:</label>
-<select id="language" name="language">
+<label for="lang">Select your language</label>
+<select id="lang" name="language">
     <option value="1"> English </option>
     <option value="2"> Basque </option>
     <option value="3" selected> Spanish </option>
@@ -14,8 +14,8 @@
 </select>
 ````
 
-<label for="language">Select your language</label>
-<select id="language" name="languager">
+<label for="lang">Select your language</label>
+<select id="lang" name="language">
     <option value="1"> English </option>
     <option value="2"> Basque </option>
     <option value="3" selected> Spanish </option>
