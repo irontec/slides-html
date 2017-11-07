@@ -1,6 +1,35 @@
-### Manos a la obra
+### ````<td>````
 
-Añade una tabla con los ingredientes, la unidad de medición y la cantidad de cada uno.  
-<br/>
-####Tip
-_Recuerda que esto es un ejemplo, no tiene que ser real._
+Representa una celda de una tabla.
+
+````HTML
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+    </tr>
+    <tr>
+        <td>Lorem</td>
+        <td>Ipsum</td>
+    </tr>
+    <tr>
+        <td>Lorem</td>
+        <td>Ipsum</td>
+    </tr>
+</table>
+````
+
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+    </tr>
+    <tr>
+        <td>Lorem</td>
+        <td>Ipsum</td>
+    </tr>
+    <tr>
+        <td>Lorem</td>
+        <td>Ipsum</td>
+    </tr>
+</table>
