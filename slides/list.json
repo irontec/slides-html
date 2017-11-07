@@ -65,7 +65,9 @@
         "10-tables-02.md",
         "10-tables-03.md",
         "10-tables-04.md",
-        "10-tables-05.md"
+        "10-tables-05.md",
+        "10-tables-06.md",
+        "10-tables-07.md"
     ], [
         "11-forms-00.md",
         "11-forms-01.md",
@@ -89,5 +91,44 @@
         "12-html5-09.md",
         "12-html5-10.md"
     ],
-    "13-me-00.md"
+    [
+        "13-meta-00.md",
+        "13-meta-01.md",
+        "13-meta-02.md",
+        "13-meta-03.md",
+        "13-meta-04.md",
+        "13-meta-05.md",
+        "13-meta-06.md",
+        "13-meta-07.md",
+        "13-meta-08.md",
+        "13-meta-09.md",
+        "13-meta-10.md",
+        "13-meta-11.md",
+        "13-meta-12.md",
+        "13-meta-13.md",
+        "13-meta-14.md",
+        "13-meta-15.md",
+        "13-meta-16.md",
+        "13-meta-17.md",
+        "13-meta-18.md",
+        "13-meta-19.md",
+        "13-meta-20.md",
+        "13-meta-21.md",
+        "13-meta-22.md",
+        "13-meta-23.md",
+        "13-meta-24.md",
+        "13-meta-25.md",
+        "13-meta-26.md",
+        "13-meta-27.md",
+        "13-meta-28.md",
+        "13-meta-29.md",
+        "13-meta-30.md",
+        "13-meta-31.md"
+    ],
+    [
+        "14-social-media-00.md",
+        "14-social-media-01.md",
+        "14-social-media-02.md"
+    ],
+    "15-me-00.md"
 ]

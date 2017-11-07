@@ -3,5 +3,5 @@
 Es un identificador único.
 
 ````HTML
-<span id="text">Este texto tiene un identificador</span>
+<span id="text">Texto con un identificador</span>
 ````

@@ -1,3 +1,5 @@
 ### ````<table>````
 
-Representa una tabla.
+Representa una tabla.  
+
+![](assets/table.png)

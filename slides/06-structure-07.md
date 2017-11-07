@@ -7,7 +7,8 @@ Es el contenido de nuestra Web.
     <head>
         <title>Hello World</title>
         <meta charset="utf-8" />
-        <meta name="description" content="This is my first page">
+        <meta name="description" 
+              content="This is my first page">
     </head>
     <body>
         Hello World!

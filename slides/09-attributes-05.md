@@ -5,7 +5,7 @@
 
 
 ````HTML
-<img src="https://www.irontec.com/images/irontec_white.png" alt="irontec">
+<img src="irontec.png" alt="irontec">
 ````
 <br/>
 <br/>

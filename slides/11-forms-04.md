@@ -7,9 +7,11 @@
 ````HTML
 <form action="/action_page.php" method="post">
     <label for="user">Usuario:</label>
-    <input type="text" id="user" name="user"> <br/>
+    <input type="text" id="user" name="user">
+    <br/>
     <label for="pass">Contraseña:</label>
-    <input type="password" id="pass" name="pass"> <br/> 
+    <input type="password" id="pass" name="pass"> 
+    <br/> 
     <input type="button" value="Entrar">
 </form>
 ````
