@@ -12,3 +12,5 @@
 - Tablas
 - Formularios
 - HTML5
+- Metadatos para las redes sociales
+- Redes sociales - Integración
