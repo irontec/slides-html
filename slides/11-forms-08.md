@@ -1,16 +1,20 @@
-### ¡Manos a la obra!
+### `<input>` Checkbox
 
-Crea un formulario de registro de un usuario.  
-Debes solicitar datos básicos del usuario:  
+- Permite al usuario seleccionar CERO o MÁS opciones.
+- Todas las opciones deben llevar distintos _name_.
+- El valor enviado será el que se especifica en el atributo _value_.
+- Las opciones seleccionadas por defecto se especifican con el atributo _checked_.
 
-- Nombre
-- Apellidos
-- Contraseña
-- Email
-- Teléfono
-- Sexo
-- Edad
-- Idioma materno
-- Descripción
+````HTML
+<form>
+  <input type="checkbox" name="vehicle1" 
+         value="Bike" checked> I have a bike<br>
+  <input type="checkbox" name="vehicle2" 
+         value="Car" checked> I have a car 
+</form>
+````
 
-¡Y cualquier cosa que se te ocurra!
+<form>
+  <input type="checkbox" name="vehicle1" value="Bike" checked> I have a bike<br>
+  <input type="checkbox" name="vehicle2" value="Car" checked> I have a car 
+</form>

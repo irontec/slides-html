@@ -1,22 +1,24 @@
-### `<button>`
+### `<input>` Radio button
 
-- Representa un botón.  
-- Puede ser de tipo _submit_(enviar), _reset_(reinicia todos los campos) o _button_ (un botón clickable).
+- Permite al usuario seleccionar UNA opción.
+- Todas las opciones deben llevar el mismo _name_.
+- El valor enviado será el que se especifica en el atributo _value_.
+- La opción seleccionada por defecto se especifica con el atributo _checked_.
 
 ````HTML
-<form action="/action_page.php" method="get">
-  First name: <input type="text" name="fname">
-  <br/>
-  Last name: <input type="text" name="lname">
-  <br/>
-  <button type="submit">Submit</button>
-  <button type="reset">Reset</button>
+<form>
+  <input type="radio" name="gender" 
+         value="male" checked> Male<br>
+  <input type="radio" name="gender" 
+         value="female"> Female<br>
+  <input type="radio" name="gender" 
+         value="other"> Other
 </form>
 ````
 
-<form action="/action_page.php" method="get">
-  First name: <input type="text" name="fname"><br>
-  Last name: <input type="text" name="lname"><br>
-  <button type="submit">Submit</button>
-  <button type="reset">Reset</button>
+
+<form>
+  <input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Other
 </form>
