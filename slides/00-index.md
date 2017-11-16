@@ -1,4 +1,10 @@
+<img src="assets/html.jpg" alt="" style="size: 30%;height: 30%;width: 30%;">
 
-![](assets/html.jpg)
+<br/>
 
-> Natalia Aznar @ Irontec 2017
+## Máster en Marketing Digital: Curso HTML y CSS
+
+<br/>
+> Natalia Aznar @ Irontec 2017  
+
+Bilbao, noviembre 2017
